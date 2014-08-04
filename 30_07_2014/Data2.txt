@@ -1,0 +1,4 @@
+'\n'
+Ania skacze se po skwerze.'\n'
+Bartek jezdzi na rowerze.'\n'
+Czarek w szachy gra.'\n'

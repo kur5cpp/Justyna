@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1406551901 source:/home/student/Desktop/28_07_2014_1/main.cpp
+	<iostream>
+	<string>
+	"Ulamek.hpp"
+
+1406551896 /home/student/Desktop/28_07_2014_1/include/Ulamek.hpp
+
+1406550851 source:/home/student/Desktop/28_07_2014_1/src/Ulamek.cpp
+	<iostream>
+	"Ulamek.hpp"
+

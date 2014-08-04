@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1405430736 source:/home/student/Desktop/15_07_2014/main.cpp
+	<iostream>
+	<cstdlib>
+
+1405430836 source:/home/student/Desktop/15_07_2014/dane_osobowe.cpp
+

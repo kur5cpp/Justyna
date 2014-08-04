@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406879894 source:/home/student/Desktop/XCIV/main.cpp
+	<iostream>
+	<ctype.h>
+	<sstream>
+

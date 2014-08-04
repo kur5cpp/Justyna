@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1406717833 source:/home/student/Desktop/29_07_2014_2/main.cpp
+	<iostream>
+	"trojkat.h"
+
+1406717862 /home/student/Desktop/29_07_2014_2/include/trojkat.h
+	<iostream>
+
+1406707154 source:/home/student/Desktop/29_07_2014_2/src/trojkat.cpp
+	"trojkat.h"
+	<iostream>
+

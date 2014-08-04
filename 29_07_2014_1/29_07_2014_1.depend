@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1406638075 source:/home/student/Desktop/29_07_2014_1/src/Zespol.cpp
+	"Zespol.h"
+	<iostream>
+	<stdlib.h>
+
+1406636750 /home/student/Desktop/29_07_2014_1/include/Zespol.h
+
+1406636409 source:/home/student/Desktop/29_07_2014_1/main.cpp
+	<iostream>
+	<stdlib.h>
+	"Zespol.h"
+

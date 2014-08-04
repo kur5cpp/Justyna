@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1406882363 source:/home/student/Desktop/01_08_2014/main.cpp
+	<iostream>
+	"Punkt1D.h"
+	"Punkt2D.h"
+
+1406881640 source:/home/student/Desktop/01_08_2014/src/Punkt1D.cpp
+	"Punkt1D.h"
+
+1406883370 /home/student/Desktop/01_08_2014/include/Punkt1D.h
+	<iostream>
+
+1406883370 /home/student/Desktop/01_08_2014/include/Punkt2D.h
+	<iostream>
+	"Punkt1D.h"
+
+1406881688 source:/home/student/Desktop/01_08_2014/src/Punkt2D.cpp
+	"Punkt2D.h"
+
+1406883268 source:/home/student/Desktop/01_08_2014/src/Punkt3D.cpp
+	"Punkt3D.h"
+
+1406883479 /home/student/Desktop/01_08_2014/include/Punkt3D.h
+	<iostream>
+	"Punkt2D.h"
+

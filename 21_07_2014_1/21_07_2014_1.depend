@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1406097421 source:/home/student/Desktop/21_07_2014_1/main.cpp
+	<iostream>
+	"ISBN.h"
+	"Data_book.h"
+	"Bookcase.h"
+	"Overloaded_operators"
+
+1406035088 /home/student/Desktop/21_07_2014_1/include/ISBN.h
+
+1406034517 source:/home/student/Desktop/21_07_2014_1/src/ISBN.cpp
+	"ISBN.h"
+
+1406034577 /home/student/Desktop/21_07_2014_1/Overloaded_operators
+
+1406035147 source:/home/student/Desktop/21_07_2014_1/src/Overloaded_operators.cpp
+	"Overloaded_operators.h"
+
+1406035221 /home/student/Desktop/21_07_2014_1/include/Overloaded_operators.h
+
+1406097798 /home/student/Desktop/21_07_2014_1/include/Data_book.h
+	<iostream>
+	"ISBN.h"
+	"Bookcase.h"
+
+1406096779 source:/home/student/Desktop/21_07_2014_1/src/Data_book.cpp
+	"Data_book.h"
+
+1406098304 /home/student/Desktop/21_07_2014_1/include/Bookcase.h
+	"Data_book.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406809715 source:/home/student/Desktop/XCI-internet/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406199900 source:/home/student/Desktop/test/main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+

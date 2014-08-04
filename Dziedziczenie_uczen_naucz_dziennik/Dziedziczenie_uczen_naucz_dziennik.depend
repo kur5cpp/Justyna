@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1406899102 source:/home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/main.cpp
+	<iostream>
+	"Osoba.h"
+	"Nauczyciel.h"
+	"Uczen.h"
+	"Dziennik.h"
+
+1406890209 source:/home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/src/Dziennik.cpp
+	"Dziennik.h"
+
+1406899720 /home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/include/Dziennik.h
+	"Osoba.h"
+	"Nauczyciel.h"
+	"Uczen.h"
+	<iostream>
+	<iomanip>
+
+1406890186 source:/home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/src/Nauczyciel.cpp
+	"Nauczyciel.h"
+
+1406895584 /home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/include/Nauczyciel.h
+	"Osoba.h"
+	<string>
+
+1406893672 /home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/include/Osoba.h
+	<string>
+
+1406890176 source:/home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/src/Osoba.cpp
+	"Osoba.h"
+
+1406890196 source:/home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/src/Uczen.cpp
+	"Uczen.h"
+
+1406898240 /home/student/Desktop/Dziedziczenie_uczen_naucz_dziennik/include/Uczen.h
+	"Osoba.h"
+	<string>
+
