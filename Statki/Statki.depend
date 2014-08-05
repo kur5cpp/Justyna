@@ -2,3 +2,29 @@
 1407153076 source:/home/student/Desktop/Statki/main.cpp
 	<iostream>
 
+1407242546 source:/home/student/Desktop/marcin/Justyna/Statki/main.cpp
+	<iostream>
+	<stdlib.h>
+	"Plansza.h"
+	"Gracz.h"
+
+1407244285 /home/student/Desktop/marcin/Justyna/Statki/include/Plansza.h
+	<iostream>
+	<stdlib.h>
+	<Statki.h>
+
+1407237950 /home/student/Desktop/marcin/Justyna/Statki/include/Gracz.h
+	<iostream>
+	"Plansza.h"
+
+1407237956 source:/home/student/Desktop/marcin/Justyna/Statki/src/Gracz.cpp
+	"Gracz.h"
+
+1407242527 source:/home/student/Desktop/marcin/Justyna/Statki/src/Plansza.cpp
+	"Plansza.h"
+
+1407243570 source:/home/student/Desktop/marcin/Justyna/Statki/src/Statki.cpp
+	"Statki.h"
+
+1407244285 /home/student/Desktop/marcin/Justyna/Statki/include/Statki.h
+

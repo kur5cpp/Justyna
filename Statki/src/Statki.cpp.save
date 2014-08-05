@@ -24,9 +24,10 @@ void Statki::fill_govert(Statki wejscie)
         wypelnij_pole(wejscie.wsp1, wejscie.wsp2+i);
 }
 
-void Statki::fill_horiz(Statki)
+void Statki::fill_horiz(Statki wejscie)
 {
-
+    for(int i=0; i<wejscie.dlugosc; i++)
+        wypelnij_pole(wejscie.wsp1+i; wejscie.wsp2);
 }
 
 void Statki::chk_grid(Statki)

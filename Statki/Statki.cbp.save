@@ -34,8 +34,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Gracz.h" />
+		<Unit filename="include/Plansza.h" />
 		<Unit filename="include/Statki.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Gracz.cpp" />
+		<Unit filename="src/Plansza.cpp" />
 		<Unit filename="src/Statki.cpp" />
 		<Extensions>
 			<code_completion />

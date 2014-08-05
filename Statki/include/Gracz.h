@@ -1,7 +1,7 @@
 #ifndef GRACZ_H
 #define GRACZ_H
 #include <iostream>
-
+#include "Plansza.h"
 using namespace std;
 
 class Gracz

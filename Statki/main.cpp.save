@@ -15,14 +15,13 @@ int main()
     Gracz A("Ja");
     Gracz B("Wrog");
     Plansza AA;
-
+    Plansza.wy
     Plansza AB;
 
 //    AA.wypelnij_moja_plansze(A.login);
-    AA.statek.fill_govert('A', 1, 2, 1);
     AA.wyswietl_plansze(A.login);
     AB.wyswietl_plansze(B.login);
-
+    
 
 
     return 0;
