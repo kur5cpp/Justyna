@@ -1,4 +1,28 @@
 # depslib dependency file v1.0
-1407153076 source:/home/student/Desktop/Statki/main.cpp
+1407244726 source:/home/student/Desktop/Statki/main.cpp
 	<iostream>
+	<stdlib.h>
+	"Plansza.h"
+	"Gracz.h"
+
+1407239620 /home/student/Desktop/Statki/include/Plansza.h
+	<iostream>
+	<stdlib.h>
+
+1407244623 /home/student/Desktop/Statki/include/Gracz.h
+	<iostream>
+	"Plansza.h"
+
+1407245783 source:/home/student/Desktop/Statki/src/Gracz.cpp
+	"Gracz.h"
+
+1407245724 source:/home/student/Desktop/Statki/src/Plansza.cpp
+	"Plansza.h"
+
+1407237602 source:/home/student/Desktop/Statki/src/Zasady_gry.cpp
+	"Zasady_gry.h"
+
+1407237621 /home/student/Desktop/Statki/include/Zasady_gry.h
+	"Plansza.h"
+	"Gracz.h"
 

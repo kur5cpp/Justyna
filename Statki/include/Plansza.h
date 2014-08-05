@@ -11,7 +11,6 @@ class Plansza
         void wypelnij_moja_plansze(string nazwa);
         void wyswietl_plansze(string nazwa);
         virtual ~Plansza();
-    protected:
         char tab[10][10];
     private:
 };
