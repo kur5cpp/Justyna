@@ -26,3 +26,27 @@
 	"Plansza.h"
 	"Gracz.h"
 
+1407313690 source:/home/student/Desktop/marcin/Justyna/Statki/main.cpp
+	<iostream>
+	<stdlib.h>
+	"Plansza.h"
+	"Gracz.h"
+	"Statki.h"
+
+1407313876 /home/student/Desktop/marcin/Justyna/Statki/include/Plansza.h
+	<iostream>
+	<stdlib.h>
+
+1407309720 /home/student/Desktop/marcin/Justyna/Statki/include/Gracz.h
+	<iostream>
+	"Plansza.h"
+
+1407313855 /home/student/Desktop/marcin/Justyna/Statki/include/Statki.h
+
+1407309720 source:/home/student/Desktop/marcin/Justyna/Statki/src/Gracz.cpp
+	"Gracz.h"
+
+1407313970 source:/home/student/Desktop/marcin/Justyna/Statki/src/Plansza.cpp
+	"Plansza.h"
+	"Statki.h"
+

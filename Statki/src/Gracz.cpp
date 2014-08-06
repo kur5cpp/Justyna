@@ -20,12 +20,12 @@ once_more:
     c = (int)c - 65; /// funkcja ktora przyjmuje a i c  i wczytuje je
     --a;
 
-    if (wrog.pl_moja.tab[a][c] == '#' || wrog.pl_moja.tab[a][c] == 't')
+    if (wrog.pl_moja.tab[a][c] == '#' || wrog.pl_moja.tab[a][c] == 'x')
     {
-        if(wrog.pl_moja.tab[a][c] == '#' || wrog.pl_moja.tab[a][c] != 't')
+        if(wrog.pl_moja.tab[a][c] == '#' || wrog.pl_moja.tab[a][c] != 'x')
             trafione_moje++;
 
-        wrog.pl_moja.tab[a][c] = 't';
+        wrog.pl_moja.tab[a][c] = 'x';
         pl_wroga.tab[a][c] = 'x';
         system("clear");
         pl_moja.wyswietl_plansze(login);
