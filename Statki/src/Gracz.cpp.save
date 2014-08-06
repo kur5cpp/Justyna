@@ -2,8 +2,8 @@
 
 Gracz::Gracz()
 {
-
-
+    
+    
 }
 
 Gracz::~Gracz()

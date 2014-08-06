@@ -9,18 +9,12 @@ class Statki
         Statki();
         Statki(char c, int a, bool vert);
         virtual ~Statki();
-        static licznik;
+        static int licznik;
         int dl_statku[10]={4, 3, 3, 2, 2, 2, 1, 1, 1, 1};
-        char wsp1;
+        int wsp1;
         int wsp2;
         int dlugosc;
         bool vertical;
-
-        void fill_govert();
-        void fill_horiz(Statki wejscie);
-        void chk_grid(Statki wejscie);
-        void chkfix_sur();
-        void random_fill();
 
     protected:
     private:

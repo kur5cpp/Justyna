@@ -3,12 +3,19 @@
 #include "Plansza.h"
 #include "Gracz.h"
 #include "Statki.h"
+#include "Gejm.h"
 
 using namespace std;
 
 
 int main()
 {
+    Gejm gra("Anna", "Bartek");
+    /*gra.wypelnij_pole_planszy();
+    gra.
+
+    
+    
     A.pl_moja.wypelnij_moja_plansze(A.login);
     system("clear");
     B.pl_moja.wypelnij_moja_plansze(B.login);
@@ -29,4 +36,3 @@ int main()
 }
 
 
-// KLASA gracz ma miec skladowe 2 plansze, i sumy trafien
