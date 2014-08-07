@@ -2,8 +2,7 @@
 
 Gracz::Gracz()
 {
-
-
+trafione_moje = 0;
 }
 
 Gracz::~Gracz()
@@ -11,6 +10,9 @@ Gracz::~Gracz()
     //dtor
 }
 
-
-
+Gracz::Gracz(string nazwa)
+{
+login = nazwa;
+trafione_moje = 0;
+}
 

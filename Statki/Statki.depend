@@ -1,22 +1,24 @@
 # depslib dependency file v1.0
-1407244726 source:/home/student/Desktop/Statki/main.cpp
+1407399309 source:/home/student/Desktop/Statki/main.cpp
 	<iostream>
 	<stdlib.h>
 	"Plansza.h"
 	"Gracz.h"
+	"Statki.h"
+	"Gejm.h"
 
-1407239620 /home/student/Desktop/Statki/include/Plansza.h
+1407328955 /home/student/Desktop/Statki/include/Plansza.h
 	<iostream>
 	<stdlib.h>
 
-1407244623 /home/student/Desktop/Statki/include/Gracz.h
+1407329782 /home/student/Desktop/Statki/include/Gracz.h
 	<iostream>
 	"Plansza.h"
 
-1407245783 source:/home/student/Desktop/Statki/src/Gracz.cpp
+1407329782 source:/home/student/Desktop/Statki/src/Gracz.cpp
 	"Gracz.h"
 
-1407245724 source:/home/student/Desktop/Statki/src/Plansza.cpp
+1407328955 source:/home/student/Desktop/Statki/src/Plansza.cpp
 	"Plansza.h"
 
 1407237602 source:/home/student/Desktop/Statki/src/Zasady_gry.cpp
@@ -72,4 +74,22 @@
 1407309511 /home/student/Desktop/marcin/Justyna/Statki/include/Zasady_gry.h
 	"Plansza.h"
 	"Gracz.h"
+
+1407393722 source:/home/student/Desktop/Statki/src/Statki.cpp
+	"Statki.h"
+	"Plansza.h"
+	"Gracz.h"
+
+1407328955 /home/student/Desktop/Statki/include/Statki.h
+
+1407398687 /home/student/Desktop/Statki/include/Gejm.h
+	"Gracz.h"
+	"Plansza.h"
+	"Statki.h"
+
+1407399394 source:/home/student/Desktop/Statki/src/Gejm.cpp
+	"Gejm.h"
+	<string>
+	"Plansza.h"
+	"Statki.h"
 

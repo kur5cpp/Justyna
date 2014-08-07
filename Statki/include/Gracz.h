@@ -9,7 +9,7 @@ class Gracz
 {
     public:
         Gracz();
-        Gracz(string nazwa) {login = nazwa; trafione_moje = 0;}
+        Gracz(string nazwa);
         virtual ~Gracz();
         string login;
         int trafione_moje;

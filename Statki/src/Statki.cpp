@@ -21,7 +21,7 @@ Statki::Statki(char c, int a, bool vert)
 
 Statki::~Statki()
 {
-    //dtor
+    --licznik;
 }
 
 
