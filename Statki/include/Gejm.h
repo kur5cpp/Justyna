@@ -28,8 +28,8 @@ class Gejm
         void narysuj_statek(Statki* tytanic, Plansza& XX);
 
         void wygaszacz();
-        int strzelaj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz X, Gracz Y);
-        int graj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz X, Gracz Y);
+        int strzelaj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz &X, Gracz &Y);
+        int graj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz &X, Gracz &Y);
         int czy_statek_lezy_na_planszy(Statki* statek, Plansza XX);
         int sprawdz_pole(int c, int a, Plansza XX);
         int spr_czy_mozna_postawic_statek(Statki* statek, Plansza XX);

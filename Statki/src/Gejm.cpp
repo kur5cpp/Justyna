@@ -135,7 +135,7 @@ void Gejm::narysuj_statek(Statki* tytanic, Plansza& XX)
     zmien_flagi(XX);
 }
 
-int Gejm::strzelaj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz X, Gracz Y)
+int Gejm::strzelaj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz &X, Gracz &Y)
 {
 once_more:
     cout << endl << "Strzelaj! (Podaj wspolrzedne: )" << endl;
@@ -159,7 +159,7 @@ once_more:
         if(X.trafione_moje >= 20 || Y.trafione_moje >= 20)
             return 0;
         else
-            goto once_more;
+            goto once_more;///tu jest GOTO.. :)
     }
     else
     {
@@ -174,7 +174,7 @@ once_more:
 }
 
 
-int Gejm::graj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz X, Gracz Y)
+int Gejm::graj(Plansza& XX, Plansza& XY, Plansza& YY, Plansza& YX, Gracz &X, Gracz &Y)
 {
 ///SYSTEM CLEAR
 system("clear");

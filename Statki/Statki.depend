@@ -28,50 +28,51 @@
 	"Plansza.h"
 	"Gracz.h"
 
-1407328236 source:/home/student/Desktop/marcin/Justyna/Statki/main.cpp
+1407410737 source:/home/student/Desktop/marcin/Justyna/Statki/main.cpp
 	<iostream>
 	<stdlib.h>
 	"Plansza.h"
 	"Gracz.h"
 	"Statki.h"
 	"Gejm.h"
+	"Menu.h"
 
-1407316517 /home/student/Desktop/marcin/Justyna/Statki/include/Plansza.h
+1407328955 /home/student/Desktop/marcin/Justyna/Statki/include/Plansza.h
 	<iostream>
 	<stdlib.h>
 
-1407328148 /home/student/Desktop/marcin/Justyna/Statki/include/Gracz.h
+1407329782 /home/student/Desktop/marcin/Justyna/Statki/include/Gracz.h
 	<iostream>
 	"Plansza.h"
 
-1407326751 /home/student/Desktop/marcin/Justyna/Statki/include/Statki.h
+1407328955 /home/student/Desktop/marcin/Justyna/Statki/include/Statki.h
 
-1407327513 source:/home/student/Desktop/marcin/Justyna/Statki/src/Gracz.cpp
+1407329782 source:/home/student/Desktop/marcin/Justyna/Statki/src/Gracz.cpp
 	"Gracz.h"
 
-1407316490 source:/home/student/Desktop/marcin/Justyna/Statki/src/Plansza.cpp
+1407328955 source:/home/student/Desktop/marcin/Justyna/Statki/src/Plansza.cpp
 	"Plansza.h"
 
-1407328236 /home/student/Desktop/marcin/Justyna/Statki/include/Gejm.h
+1407415024 /home/student/Desktop/marcin/Justyna/Statki/include/Gejm.h
 	"Gracz.h"
 	"Plansza.h"
 	"Statki.h"
 
-1407327755 source:/home/student/Desktop/marcin/Justyna/Statki/src/Gejm.cpp
+1407415244 source:/home/student/Desktop/marcin/Justyna/Statki/src/Gejm.cpp
 	"Gejm.h"
 	<string>
 	"Plansza.h"
 	"Statki.h"
 
-1407327776 source:/home/student/Desktop/marcin/Justyna/Statki/src/Statki.cpp
+1407393722 source:/home/student/Desktop/marcin/Justyna/Statki/src/Statki.cpp
 	"Statki.h"
 	"Plansza.h"
 	"Gracz.h"
 
-1407309511 source:/home/student/Desktop/marcin/Justyna/Statki/src/Zasady_gry.cpp
+1407237602 source:/home/student/Desktop/marcin/Justyna/Statki/src/Zasady_gry.cpp
 	"Zasady_gry.h"
 
-1407309511 /home/student/Desktop/marcin/Justyna/Statki/include/Zasady_gry.h
+1407237621 /home/student/Desktop/marcin/Justyna/Statki/include/Zasady_gry.h
 	"Plansza.h"
 	"Gracz.h"
 
@@ -92,4 +93,10 @@
 	<string>
 	"Plansza.h"
 	"Statki.h"
+
+1407411463 /home/student/Desktop/marcin/Justyna/Statki/include/Menu.h
+	<iostream>
+
+1407412392 source:/home/student/Desktop/marcin/Justyna/Statki/src/Menu.cpp
+	"Menu.h"
 

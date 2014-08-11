@@ -4,12 +4,15 @@
 #include "Gracz.h"
 #include "Statki.h"
 #include "Gejm.h"
+#include "Menu.h"
 
 using namespace std;
 
 
 int main()
 {
+    Menu me;
+    me.menu_ekran_startowy();
     Gejm gra("Anna", "Bartek");
     gra.wypelnij_moja_plansze(gra.AA, gra.A);
     gra.wypelnij_moja_plansze(gra.BB, gra.B);
