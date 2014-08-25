@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1408695586 source:/home/student/Desktop/Warsztat_2000/src/Baza_zamowien.cpp
+	"Baza_zamowien.h"
+
+1408700018 /home/student/Desktop/Warsztat_2000/include/Baza_zamowien.h
+	"Zamowienie.h"
+
+1408695620 source:/home/student/Desktop/Warsztat_2000/src/Czlowiek.cpp
+	"Czlowiek.h"
+
+1408696069 /home/student/Desktop/Warsztat_2000/include/Czlowiek.h
+	<string>
+
+1408695711 source:/home/student/Desktop/Warsztat_2000/src/Klient.cpp
+	"Klient.h"
+
+1408696042 /home/student/Desktop/Warsztat_2000/include/Klient.h
+	"Czlowiek.h"
+
+1408695682 source:/home/student/Desktop/Warsztat_2000/src/Pracownik.cpp
+	"Pracownik.h"
+
+1408696042 /home/student/Desktop/Warsztat_2000/include/Pracownik.h
+	"Czlowiek.h"
+
+1408714039 source:/home/student/Desktop/Warsztat_2000/src/Zamowienie.cpp
+	"Zamowienie.h"
+
+1408714790 /home/student/Desktop/Warsztat_2000/include/Zamowienie.h
+	<iostream>
+	<vector>
+	"Pracownik.h"
+	"Klient.h"
+	"Usluga.h"
+
+1408713640 source:/home/student/Desktop/Warsztat_2000/main.cpp
+	<iostream>
+	"Zamowienie.h"
+	"Baza_zamowien.h"
+	"Pracownik.h"
+	"Czlowiek.h"
+	"Klient.h"
+	"Usluga.h"
+
+1408696312 /home/student/Desktop/Warsztat_2000/include/Usluga.h
+
+1408696312 source:/home/student/Desktop/Warsztat_2000/src/Usluga.cpp
+	"Usluga.h"
+
